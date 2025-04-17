@@ -13,3 +13,6 @@ class AddItems:
 
 def add(a, b):
     return a + b
+
+def power(b, p):
+    return b**p
